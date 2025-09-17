@@ -133,5 +133,4 @@ If you are a logo owner and wish to have your logo removed or credited different
 </a>
 </p>
 
-
-
+![Fotter](https://capsule-render.vercel.app/api?type=waving&height=290&color=gradient&text=Let’s%20build%20something%20great&textBg=false&section=footer&fontSize=45&desc=©%20G%20Santosh%20Kumar%20•%20Last%20updated:%202025-09-18&descAlignY=95&descAlign=50)
