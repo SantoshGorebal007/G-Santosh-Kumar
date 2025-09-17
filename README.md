@@ -1,10 +1,52 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20Am%20Santosh&section=header&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlign=50&textBg=false&desc=The%20Dev&fontAlignY=35&descSize=61&descAlignY=68&descAlign=69)
+![header](https://capsule-render.vercel.app/api?type=venom&height=180&color=gradient&text=I%20Am%20Santosh&section=header&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlign=50&textBg=false&desc=The%20Dev&fontAlignY=35&descSize=61&descAlignY=68&descAlign=69)
 
 ## About Me    
 Hey there,
 This is Santosh – the stalwart developer, analyst.
 
 I’m a Fourth-year B.Tech student in Information Science with a strong foundation in computer science and a passion for AI and machine learning. Over the years, I’ve built numerous responsive websites and dashboards, experimented with augmented reality, and developed data-driven systems for real-world problems. Beyond coding, I’m a creative graphic designer and an enthusiastic digital marketer, blending aesthetics with technology to craft engaging digital experiences. I thrive at the intersection of technology, creativity, and business—constantly learning, innovating, and pushing boundaries.
+
+- 🔭 Currently exploring: **React, Node.js, AWS, AR, ML (PyTorch)**  
+- 🌱 Learning: Cloud-native development & scalable data pipelines  
+- 💬 Ask me about: web animations, Power BI dashboards, or building MVPs  
+
+---
+
+## Featured Projects
+### SunDown Studio — Interactive Web Experience
+**What:** Immersive portfolio site with animations and parallax.  
+**Tech:** HTML5, CSS3, JavaScript (ES6), GSAP, Locomotive Scroll.  
+**Impact:** Optimized assets → **~40% faster** page load and smoother animations.  
+**Live:** [Click Here ](https://santoshgorebal007.github.io/Sundown-Web/)  
+**Repo:** `Sundown-Web` — includes screenshots, run instructions, and design notes.
+
+### Hospital Management Analytics System
+**What:** End-to-end data pipeline + Power BI dashboards for hospital metrics.  
+**Tech:** Python (ETL), MySQL, Power BI, Figma.  
+**Impact:** Automated Excel→MySQL pipeline and built dashboards for patient & medicine metrics.  
+**Live Dashboard:**[Click Here](https://santoshgorebal007.github.io/Hospital-Dashboard/)  
+**Repo:** `Hospital-Dashboard` — includes SQL schema, ETL scripts, and dashboard PBIX.
+
+### Zoamato Dashboard
+
+**What:** End-to-end analytics for restaurant operations and delivery — centralizes orders, deliveries, inventory, and customer data into interactive dashboards.
+**Tech**: Python (pandas, SQLAlchemy), MySQL, Power BI, Git, Figma.
+**Impact:** Automated ETL pipelines to create analytics-ready tables, interactive KPI overview (orders, revenue, AOV, cancellations, delivery performance), and inventory alerts—reduced manual reporting and enabled faster data-driven decisions for ops and marketing teams.
+**Live Dashboard:** [Check Out](https://santoshgorebal007.github.io/zomato-dashboard/)
+Repo: Zoamato-Dashboard — includes ETL scripts, sample dataset, and zoamato_dashboard.pbix.
+
+---
+
+## Certifications & Resume
+- Google Data Analytics — [Verified Certificate](https://www.coursera.org/account/accomplishments/professional-cert/2SSW1CN24N5T)  
+- Complete Data Analyst Bootcamp From Basics To Advanced - [Verified Certificate](https://www.udemy.com/certificate/UC-7092bffd-03df-4d2d-8750-bf928a1817d3/)
+
+
+## How you can explore more
+- ⭐️ Star & fork any project to try it locally.  
+- 🐛 Found an issue? Please open an issue or PR — I welcome feedback.  
+- 📩 Want to collaborate? Email me at 
+  sgcherry757@gmail.com
 
 ## Languages and Tools 
 
