@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=I%20Am%20Santosh&section=header&fontColor=blued%20&fontSize=60&animation=twinkling&fontAlign=50&textBg=false&desc=The%20Dev&fontAlignY=35&descSize=61&descAlignY=68&descAlign=69)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=I%20Am%20Santosh&section=header&fontColor=ffffff&fontSize=60&animation=twinkling&fontAlign=50&textBg=false&desc=The%20Dev&fontAlignY=35&descSize=61&descAlignY=68&descAlign=69)
 
 ## About Me    
 Hey there,
@@ -47,7 +47,7 @@ I’m a Fourth-year B.Tech student in Information Science with a strong foundati
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=SantoshGorebal007&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=SantoshGorebal007&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
 
 
@@ -56,12 +56,12 @@ I’m a Fourth-year B.Tech student in Information Science with a strong foundati
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=SantoshGorebal007&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshGorebal007&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+  <img width="auto" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantoshGorebal007&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=SantoshGorebal007&style=for-the-badge&color=orange" alt=""/>
+  <img width="auto" height="auto"src="https://komarev.com/ghpvc/?username=SantoshGorebal007&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <p align="center">
